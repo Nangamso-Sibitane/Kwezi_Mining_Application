@@ -1,0 +1,13 @@
+# Khwezi Mining Monitoring System
+
+This application was built as a group project for MINN2020A. It is a unified Streamlit application that integrates worker safety, incident management, equipment health, and risk assessment into a single dashboard.
+
+## How to Run
+1. Install dependencies: `pip install streamlit pandas plotly`
+2. Run the app: `streamlit run GROUP_20_MINN2020.py`
+
+## Work Distribution
+*   Member 1(Ntando Mbatha):** Access Control (RBAC), Login, Dashboard KPIs, Base GUI.
+*   **Member 2 (Nangamso Sibitane):** Worker Safety Module, Incident Database, Safety Analysis (Appendix A), Luxury Black & Gold Custom CSS Theme.
+*   **Member 3(Zandile Sentiwe):** Equipment Health Module, Condition Monitoring.
+*   ****Member 4(Mampoetsi Moholobela):** Risk Assessment, Dynamic Alerts, Integrated Analysis.
