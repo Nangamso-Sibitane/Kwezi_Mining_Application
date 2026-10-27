@@ -1,0 +1,21 @@
+Equipment_ID,Equipment_Type,Manufacturer,Department,Operating_Hours,Temperature_C,Vibration_mm_s,Fuel_Consumption_L_per_h,Brake_Status,Tyre_Status,Engine_Status,Downtime_Hours,Alert_Count,Availability_Percent,Maintenance_Status,Last_Maintenance_Date,Next_Maintenance_Due,Monitoring_Period_Operating_Hours,Monitoring_Period_Downtime_Hours
+TRK-001,Haul Truck,Caterpillar,Haulage,8240,76,4.2,42.5,Normal,Good,Normal,8,2,92,Operational,2026-09-29,2026-11-28,92,8
+TRK-002,Haul Truck,Komatsu,Haulage,9120,84,5.4,48.1,Normal,Fair,Normal,14,6,86,Operational,2026-09-03,2026-11-02,86,14
+TRK-003,Haul Truck,Caterpillar,Haulage,10550,103,8.7,55.3,Warning,Fair,Warning,22,12,78,Operational,2026-07-24,2026-09-22,78,22
+EXC-001,Excavator,Hitachi,Mining,6780,72,3.8,31.2,Normal,Good,Normal,5,1,95,Operational,2026-10-06,2026-12-05,95,5
+EXC-002,Excavator,Komatsu,Mining,7430,89,6.1,35.8,Normal,Good,Warning,18,8,82,Operational,2026-08-19,2026-10-18,82,18
+LD-001,Wheel Loader,Volvo,Mining,5920,78,4.7,27.4,Normal,Good,Normal,7,3,93,Operational,2026-10-02,2026-12-01,93,7
+DRL-001,Drilling Machine,Sandvik,Mining,4860,96,7.2,22.6,Normal,Fair,Warning,16,5,84,Operational,2026-08-26,2026-10-25,84,16
+DRL-002,Drilling Machine,Epiroc,Mining,5230,106,9.1,24.3,Warning,Poor,Warning,31,15,69,Under Maintenance,2026-07-15,2026-09-13,69,31
+BDZ-001,Bulldozer,Caterpillar,Haulage,6310,74,3.5,29.8,Normal,Good,Normal,9,4,91,Operational,2026-09-24,2026-11-23,91,9
+CRS-001,Crusher,Metso,Processing,11200,82,5.8,,Normal,Not Applicable,Warning,20,10,80,Operational,2026-08-15,2026-10-14,80,20
+CNV-001,Conveyor,FLSmidth,Processing,14800,68,2.9,,Normal,Not Applicable,Normal,6,3,94,Operational,2026-09-19,2026-11-18,94,6
+TRK-004,Haul Truck,Komatsu,Haulage,7890,79,4.9,44.6,Normal,Fair,Normal,17,7,83,Operational,2026-09-01,2026-10-31,83,17
+EXC-003,Excavator,Hitachi,Mining,8650,101,8.2,38.1,Warning,Fair,Warning,24,11,76,Operational,2026-08-08,2026-10-07,76,24
+LD-002,Wheel Loader,Volvo,Mining,4510,70,3.2,25.9,Normal,Good,Normal,4,2,96,Operational,2026-10-09,2026-12-08,96,4
+DRL-003,Drilling Machine,Sandvik,Mining,5980,87,5.1,21.8,Normal,Fair,Warning,19,9,81,Operational,2026-09-11,2026-11-10,81,19
+TRK-005,Haul Truck,Caterpillar,Haulage,9670,97,7.6,51.2,Normal,Fair,Warning,28,14,72,Operational,2026-07-29,2026-09-27,72,28
+CRS-002,Crusher,Metso,Processing,9300,75,4.4,,Normal,Not Applicable,Normal,6,2,94,Operational,2026-10-04,2026-12-03,94,6
+CNV-002,Conveyor,FLSmidth,Processing,13600,91,6.7,,Normal,Not Applicable,Warning,21,8,79,Operational,2026-08-24,2026-10-23,79,21
+BDZ-002,Bulldozer,Komatsu,Haulage,7040,81,5.2,30.5,Normal,Good,Normal,10,5,90,Operational,2026-09-26,2026-11-25,90,10
+EXC-004,Excavator,Hitachi,Mining,9900,108,9.4,41.6,Critical,Poor,Critical,38,18,62,Under Maintenance,2026-07-14,2026-09-12,62,38

@@ -1,0 +1,6 @@
+username;full_name;role;password 
+admin;Demo Administrator;Administrator;admin@20_khwezi
+safety;Demo Safety Officer;Safety Officer;safety@21_khwezi
+engineer;Demo Mining Engineer;Mining Engineer;engineer@22_khwezi
+maintenance;Demo Maintenance Engineer;Maintenance Engineer;maintenance@23_khwezi
+manager;Demo Manager;Manager;manager@24_khwezi

@@ -1,0 +1,31 @@
+Worker_ID,Department,Job_Role,Shift,PPE_Compliance,Safety_Training_Status,Fatigue_Level,Safety_Observations,Near_Misses,Previous_Incidents,Risk_Level
+WRK-001,Mining,Drill Operator,Day,Yes,Complete,Low,1,0,0,Low
+WRK-002,Haulage,Truck Operator,Night,Yes,Complete,Medium,2,1,0,Medium
+WRK-003,Maintenance,Diesel Mechanic,Day,No,Complete,High,2,0,1,High
+WRK-004,Processing,Plant Operator,Night,Yes,Incomplete,Medium,1,1,0,Medium
+WRK-005,Mining,Blasting Assistant,Day,Yes,Complete,Low,0,0,0,Low
+WRK-006,Haulage,Truck Operator,Night,No,Complete,High,3,2,1,Critical
+WRK-007,Engineering,Electrician,Day,Yes,Complete,Low,1,0,0,Low
+WRK-008,Processing,Conveyor Attendant,Night,Yes,Incomplete,Medium,2,1,1,High
+WRK-009,Maintenance,Fitter,Day,Yes,Complete,Medium,1,0,0,Low
+WRK-010,Mining,LHD Operator,Night,Yes,Complete,High,2,1,1,High
+WRK-011,Haulage,Spotter,Day,Yes,Complete,Low,0,0,0,Low
+WRK-012,Processing,Crusher Operator,Night,No,Incomplete,High,3,1,2,Critical
+WRK-013,Engineering,Survey Assistant,Day,Yes,Complete,Low,0,0,0,Low
+WRK-014,Mining,Rock Drill Operator,Night,Yes,Complete,Medium,1,1,0,Medium
+WRK-015,Maintenance,Lubrication Technician,Day,Yes,Complete,Low,1,0,0,Low
+WRK-016,Haulage,Truck Operator,Day,Yes,Incomplete,Medium,2,1,0,Medium
+WRK-017,Processing,Plant Attendant,Night,No,Complete,High,2,2,1,Critical
+WRK-018,Mining,Mine Overseer Assistant,Day,Yes,Complete,Low,0,0,0,Low
+WRK-019,Engineering,Instrument Technician,Night,Yes,Complete,Medium,1,0,1,Medium
+WRK-020,Haulage,Dozer Operator,Day,Yes,Complete,Low,1,0,0,Low
+WRK-021,Maintenance,Welder,Night,No,Incomplete,High,3,1,1,Critical
+WRK-022,Mining,Loader Operator,Day,Yes,Complete,Medium,1,0,0,Low
+WRK-023,Processing,Screen Operator,Night,Yes,Complete,Low,0,0,0,Low
+WRK-024,Haulage,Truck Operator,Night,Yes,Complete,High,2,1,1,High
+WRK-025,Engineering,Ventilation Assistant,Day,Yes,Complete,Low,1,0,0,Low
+WRK-026,Mining,General Miner,Night,No,Incomplete,Medium,2,1,1,High
+WRK-027,Maintenance,Pump Technician,Day,Yes,Complete,Low,0,0,0,Low
+WRK-028,Processing,Plant Operator,Day,Yes,Complete,Medium,1,0,0,Low
+WRK-029,Haulage,Truck Operator,Night,No,Complete,High,3,2,2,Critical
+WRK-030,Mining,Drill Operator,Day,Yes,Complete,Low,0,0,0,Low
